@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build output
+dist/
+build/
+
+# Logs and temp files
+logs/
+*.log
+tmp/
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment and unnecessary local folder
+.venv/
+try_data_transpform/
+for_update/
+
+# Exclude Excel files
+*.xlsx
