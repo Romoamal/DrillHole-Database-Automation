@@ -18,7 +18,3 @@ npm install
 ## Usage
 
 Provide instructions on how to run and use the project.
-
-## License
-
-This project is licensed under the MIT License.
